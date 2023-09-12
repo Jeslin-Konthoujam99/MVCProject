@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+.sidebar
+{
+	height: 600px;
+	background-color: lightgoldenrodyellow;
+	color: rgb(255, 0, 255);
+	overflow-y: scroll;
+	
+}
+.main-content
+{
+	background-color: rgb(128, 255, 255);
+	color: blueviolet;
+}
+.table
+{
+	background-color: rgb(128, 255, 128);
+}

@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+.header
+{
+	height:150px;
+	background-color: rgb(255, 255, 255);
+}
+.rightside
+{
+	background-color: rgb(255, 255, 0);
+}
+.contents
+{
+	height: 400px;
+	
+}
+.sidebar
+{
+	height: 400px;
+	background-color: rgb(128, 255, 128);
+}
+.right
+{
+	height: 100px;
+	background-color: rgb(150, 0, 50);
+}
+.left
+{
+	background-color:cyan ;
+}
